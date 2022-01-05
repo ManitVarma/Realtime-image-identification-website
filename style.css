@@ -1,0 +1,24 @@
+.heading_div{
+    background-color: yellow;
+    color: rgb(140, 0, 255);
+}
+.heading_div2{
+    
+}
+
+canvas{
+    margin-top: 150px;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px, 5px, grey;
+}
+
+.copy_right_footer{
+    position: fixed;
+    background-color: gold;
+    color: navy;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+}
